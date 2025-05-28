@@ -1,5 +1,5 @@
 @echo off
-cd D:\path\to\your\repo
-git add
+cd E:\数据结构\大作业\bin\Debug\ImageLibrary
+git add .
 git commit -m "Your commit message"
-git push origin master
+git push pictureku master
